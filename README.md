@@ -2,13 +2,13 @@
 
 Hi everyone!  I'm Shivam Shukla, a recent MSc graduate in Data Science and Artificial Intelligence. I'm thrilled to share my journey with Encryptix's amazing 4-month virtual internship program.
 
-This program offered a fantastic opportunity to delve into real-world data science challenges and explore a diverse range of projects. Here, you'll find three projects I tackled, each showcasing my application of machine learning models and algorithms.
+This program offered a fantastic opportunity to delve into real-world data science challenges and explore a diverse range of tasks. Here, you'll find three tasks I tackled, each showcasing my application of machine learning models and algorithms.
 
-Project Showcase:
+Task Showcase:
 
-## Project 1: Movie Genre Classification 
+## Task 1: Movie Genre Classification 
 
-This project dives into the fundamentals of machine learning projects, focusing on movie genre classification. It explores essential concepts like text cleaning, feature engineering, and model building using Naive Bayes.
+This task dives into the fundamentals of machine learning projects, focusing on movie genre classification. It explores essential concepts like text cleaning, feature engineering, and model building using Naive Bayes.
 
 **Let's embark on the journey!**
 
@@ -49,4 +49,4 @@ We'll use the trained model to predict genres for unseen data and evaluate its p
 * **Lancaster Stemmer:** This tool reduces words to their base form, improving text analysis.
 * **stopwords.words('english'):** This retrieves common words like "the" and "and" that are often removed during preprocessing as they carry minimal meaning.
 
-**This project provides a solid foundation for understanding the machine learning workflow for text classification tasks. Stay tuned for future projects!**
+**This task provides a solid foundation for understanding the machine learning workflow for text classification tasks. Stay tuned for future tasks!**
